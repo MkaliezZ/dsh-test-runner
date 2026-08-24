@@ -1,3 +1,4 @@
-- id: dsh-test-normalizer
-  name: '@mkaliezz/dsh-test-runner'
-  config: {}
+- insert:
+    - id: dsh-test-normalizer
+      name: '@mkaliezz/dsh-test-runner'
+      config: {}
